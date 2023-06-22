@@ -1,0 +1,9 @@
+.layout{
+    border: solid black;
+    height: 1480px;
+}
+ #resume{
+    text-align: center;
+    border:solid red;
+    background-color: aquamarine;
+}
